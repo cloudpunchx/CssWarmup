@@ -1,0 +1,15 @@
+#books{
+    height: 200px;
+}
+
+#vhs{
+    height: 300px;
+}
+
+#dvd{
+    height: 400px;   
+}
+
+.titles{
+    color: pink;
+}
